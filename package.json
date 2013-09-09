@@ -1,0 +1,22 @@
+{
+  "name": "steam-condenser",
+  "version": "0.0.0",
+  "description": "A library for querying Steam Community, Source and GoldSrc game servers as well as Steam master servers.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "nodeunit tests/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepak1556/steam-condenser-js.git"
+  },
+  "keywords": [
+    "steam-condenser",
+    "steam"
+  ],
+  "author": "robo",
+  "license": "BSD"
+}
